@@ -1,0 +1,14 @@
+{
+  "name": "mcp-register",
+  "displayName": "Spacecamps directory desk",
+  "version": "1.0.0",
+  "description": "Spacecamps facts and the free directories still left to submit.",
+  "author": {
+    "name": "Christoph von Gellhorn",
+    "url": "https://cvgellhorn.com"
+  },
+  "homepage": "https://spacecamps.com.au",
+  "repository": "https://github.com/cvgellhorn/mcp-register",
+  "license": "MIT",
+  "keywords": ["spacecamps", "directories", "mcp", "caravan-parks"]
+}

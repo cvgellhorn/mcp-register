@@ -1,0 +1,12 @@
+{
+  "name": "mcp-register",
+  "version": "1.0.0",
+  "description": "Spacecamps facts and the free directories still left to submit.",
+  "mcpServers": {
+    "mcp-register": {
+      "command": "node",
+      "args": ["${extensionPath}${/}dist${/}stdio.js"],
+      "cwd": "${extensionPath}"
+    }
+  }
+}
